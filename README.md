@@ -4,7 +4,7 @@ Lern-Periode 5
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+1. Ich finde meine Noten stehen gut. Ich bin mit den bisherigen Modulen zufrieden. Die besonders wichtigen Module sind wahrscheinlich die Module, die mit SQL zu tun haben in diesem Semester. Das Modul 187 ist auch grundlegend wichtig, um den eigenen Arbeitsplatz zu kennen.
 2. Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 3. Was wäre ein geeignetes Projekt für diese LP5?
 
