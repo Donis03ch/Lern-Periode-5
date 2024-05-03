@@ -14,9 +14,9 @@ Lern-Periode 5
 
 ## 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] HTML Konzept mittlere Stufe
+- [ ] CSS Konzept mittlere Stufe
+- [ ] Modul 122
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
