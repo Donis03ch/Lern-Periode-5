@@ -5,8 +5,8 @@ Lern-Periode 5
 ## Grob-Planung
 
 1. Ich finde meine Noten stehen gut. Ich bin mit den bisherigen Modulen zufrieden. Die besonders wichtigen Module sind wahrscheinlich die Module, die mit SQL zu tun haben in diesem Semester. Das Modul 187 ist auch grundlegend wichtig, um den eigenen Arbeitsplatz zu kennen.
-2. Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt für diese LP5?
+2. Ich sollte mir rechtzeitig Hilfe suchen, entweder extern auf dem Internet oder wende mich an einer Lehrperson zu.
+3. Ich hätte die Idee von einem Dual-Plan. Erläutert: Ich arbeite, wenn ich druck im Modul 122 empfinde an diesen, bis ich soweit wieder aufgeholt habe. Als Projekt würde ich..
 
 ## 23.4.2024
 
