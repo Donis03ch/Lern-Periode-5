@@ -10,7 +10,7 @@ Lern-Periode 5
 
 ## 03.5.2024
 
-Heute habe ich einwenig mit HTML & CSS rumprobiert und habe mein Wissen erneut aufgefrischt. Ich habe mich entschieden eine Webseite zum streamen von Filmen zu schreiben. (50-100 Wörter)
+Heute habe ich einwenig mit HTML & CSS rumprobiert und habe mein Wissen erneut aufgefrischt. Ich habe mich entschieden eine Webseite zum streamen von Filmen zu schreiben. Ich finde dieses Projekt paast so, da ich gerne Filme schaue und mit dem Grundwissen, dass ich für HTML besitze, kann ich mich einem höheren Level widmen. (54 Wörter)
 
 ## 17.5.2024
 
