@@ -8,11 +8,11 @@ Lern-Periode 5
 2. Ich sollte mir rechtzeitig Hilfe suchen, entweder extern auf dem Internet oder wende mich an einer Lehrperson zu.
 3. Ich hätte die Idee von einem Dual-Plan. Erläutert: Ich arbeite, wenn ich druck im Modul 122 empfinde an diesen, bis ich soweit wieder aufgeholt habe. Als Projekt würde ich an dem Odin Project nehmen.
 
-## 23.4.2024
+## 03.5.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich einwenig mit HTML & CSS rumprobiert und habe mein Wissen erneut aufgefrischt.  (50-100 Wörter)
 
-## 30.4.2024
+## 17.5.2024
 
 - [ ] HTML Konzept mittlere Stufe
 - [ ] CSS Konzept mittlere Stufe
