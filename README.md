@@ -14,8 +14,8 @@ Heute habe ich einwenig mit HTML & CSS rumprobiert und habe mein Wissen erneut a
 
 ## 17.5.2024
 
-- [ ] HTML Konzept mittlere Stufe
-- [ ] CSS Konzept mittlere Stufe
+- [ ] Skelett von dem Start
+- [ ] Videoplayer einrichten
 - [ ] Modul 122
 
 ✍️ Heute habe ich... (50-100 Wörter)
