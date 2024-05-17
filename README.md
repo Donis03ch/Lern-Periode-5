@@ -18,7 +18,7 @@ Heute habe ich ein wenig mit HTML & CSS rumprobiert und habe mein Wissen erneut 
 - [ ] Videoplayer einrichten
 - [ ] Modul 122
 
-Heute habe ich mit dem HTML und das dazugehörige CSS angefangen. Am anfang hatte ich keine genaue vorstellung wie es aussehen sollte, daher habe ich im Web nach Inspirationen gesucht. Ich werde es mit einem Tutorial auf der Seite fertigstellen. Mit diesem Projekt ziele ich auch noch etwas Java zu lernen. Leider habe ich den Videoplayer noch nicht implementiert. Ich hatte kein Verlangen an dem Modul 122 weiter zu arbeiten. (70 Wörter)
+Heute habe ich mit dem HTML und das dazugehörige CSS angefangen. Am Anfang hatte ich keine genaue Vorstellung wie es aussehen sollte, daher habe ich im Web nach Inspirationen gesucht. Ich werde es mit einem Tutorial auf der Seite fertigstellen. Mit diesem Projekt ziele ich auch noch etwas Java zu lernen. Leider habe ich den Videoplayer noch nicht implementiert. Ich hatte kein Verlangen an dem Modul 122 weiter zu arbeiten. (70 Wörter)
 
 
 ## 24.5.2024
