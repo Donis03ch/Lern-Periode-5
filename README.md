@@ -22,7 +22,7 @@ Heute habe ich mit dem HTML und das dazugehörige CSS angefangen. Am anfang hatt
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
-## 17.5.2024
+## 24.5.2024
 
 - [ ] Qualitäts einstellung
 - [ ] Videoplayer einrichten
