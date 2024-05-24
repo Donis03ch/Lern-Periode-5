@@ -27,4 +27,14 @@ Heute habe ich mit dem HTML und das dazugehörige CSS angefangen. Am Anfang hatt
 - [ ] Videoplayer einrichten
 - [ ] Modul 122 - 2 Session
 
+Heute habe ich weiter mit meiner Website gemacht. Schwierigkeiten hatte ich bisher noch keine. 
+
+
+## 31.5.2024
+
+- [ ] Qualitäts einstellung
+- [ ] Videoplayer einfügen
+- [ ] Review - Kommentare 
+- [ ] Modul 122 - 3 Session
+
 Heute habe ich...
