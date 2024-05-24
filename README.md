@@ -27,7 +27,7 @@ Heute habe ich mit dem HTML und das dazugehörige CSS angefangen. Am Anfang hatt
 - [ ] Videoplayer einrichten
 - [ ] Modul 122 - 2 Session
 
-Heute habe ich weiter mit meiner Website gemacht. Schwierigkeiten hatte ich bisher noch keine. 
+Heute habe ich weiter mit meiner Website gemacht. Schwierigkeiten hatte ich bisher nur minimale. Das Navigieren funktioniert noch nicht ganz. Ich vermute ich habe da Bezeichnungen nicht korrekt verlinkt oder auch das JS nicht richtig verzweigt. Ich würde dann, aber mal langsam mit dem Videoplayer starten. Auch heute war kein Bedürfniss da eine Arbeit im Modul 122 nachzuholen. (58 Wörter)
 
 
 ## 31.5.2024
