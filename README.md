@@ -38,3 +38,12 @@ Heute habe ich weiter mit meiner Website gemacht. Schwierigkeiten hatte ich bish
 - [ ] Modul 122 - 3 Session
 
 Heute habe ich einen Videoplayer erstellt. Das Navigieren habe ich auch gefixt. Die Webseite ist somit vom HTML und CSS soweit fertig. Ich brauche noch die Qualität vom Player zu ändern, sozusagen benötigt sie Optimierungen. Schwierigkeiten hatte ich heute grundsätzlich keine. Für Modul 122 war kein bedürfniss da etwas nachzuholen. (49 Wörter)
+
+
+## 7.6.2024
+
+- [ ] Qualitäts einstellung
+- [ ] Review - Kommentare 
+- [ ] Modul 122 - 4 Session
+
+Heute habe ich...
