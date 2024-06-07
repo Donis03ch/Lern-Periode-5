@@ -47,3 +47,12 @@ Heute habe ich einen Videoplayer erstellt. Das Navigieren habe ich auch gefixt. 
 - [ ] Modul 122 - 4 Session
 
 Heute habe ich...
+
+
+## 14.6.2024
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+Heute habe ich...
