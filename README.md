@@ -54,6 +54,15 @@ Heute habe ich an Modul 122 den Auftrag 1707 und 1708 gemacht. Das habe ich zu B
 - [ ] Qualitätseinstellung
 - [ ] Bewertungssystem
 - [ ] Untertitel
-- [ ] Modul 293 an dem LB (Die Startseite)
+- [x] Modul 293 an dem LB (Die Startseite)
+
+Heute habe ich mehr an dem LB gearbeitet, da ich noch 2 Wochen dafür Zeit habe. Geplant war es die Startseite zu machen, jedoch war ich mit den Mockups von den Unterseiten noch nicht fertig und hatte mit ihnen angefangen. Für das LB habe ich eine kleine Inspiration von aussen geholt und mache daher eine Fan site von dem Game Solo Leveling Arise. (63 Wörter)
+
+## 21.6.2024
+
+- [ ] Qualitätseinstellung
+- [ ] Untertitel
+- [ ] Modul 293 an dem LB (Die Tipps Seite)
+- [ ] Modul 293 an dem LB (Die Charakter Seite)
 
 Heute habe ich...
