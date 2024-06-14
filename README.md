@@ -46,13 +46,14 @@ Heute habe ich einen Videoplayer erstellt. Das Navigieren habe ich auch gefixt. 
 - [ ] Review - Kommentare 
 - [ ] Modul 122 - 4 Session
 
-Heute habe ich...
+Heute habe ich an Modul 122 den Auftrag 1707 und 1708 gemacht. Das habe ich zu Beginn gemacht, da ich nicht ganz wusste was ich wie soll machen. Ich versuchte den Videoplayer umzuändern. Ich habe nicht wirklich Schwierigkeiten gehabt beim Arbeiten und finde es war für mich auch gut, dieses einmal an dem Modul zu arbeiten, wenn ich es nachholen muss. (61 Wörter)
 
 
 ## 14.6.2024
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Qualitätseinstellung
+- [ ] Bewertungssystem
+- [ ] Untertitel
+- [ ] Modul 293 an dem LB (Die Startseite)
 
 Heute habe ich...
