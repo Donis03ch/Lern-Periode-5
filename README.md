@@ -97,3 +97,15 @@ Nach anfänglichen Schwierigkeiten mit der Navigation und dem Videoplayer konnte
 Ich habe dabei festgestellt, dass ich besser lerne, wenn ich an praktischen Projekten arbeite, anstatt mich nur auf theoretische Module zu konzentrieren. So hatte ich kein Bedürfnis, an Modul 122 weiterzuarbeiten, sondern fokussierte mich lieber auf die Optimierung meines Videoplayers und die Erstellung der Startseite.
 
 Am Ende dieser Lernperiode habe ich entschieden, an eine Fan-Seite für das Spiel Solo Leveling Arise zu arbeiten für das LB_M293, inspiriert durch externe Quellen. Insgesamt bin ich zufrieden mit meinem Fortschritt und freue mich darauf, mein Wissen weiter auszubauen. (168 Wörter)
+
+## LA Reflexion
+
+Dieses Jahr habe ich technisch viel gelernt. Ich habe HTML, CSS und JavaScript benutzt, um eine Movie-Website zu erstellen. Dabei habe ich nicht nur die grundlegenden Webentwicklungstechniken erlernt, sondern auch, wie man Animationen und interaktive Elemente implementiert. Zusätzlich habe ich gelernt, wie man Automatisierungen mit PowerShell-Skripten durchführt, was mir sehr bei der Verwaltung meines Geräts geholfen hat. Die Arbeit mit MSSQL hat mir einen guten Einblick in Datenbanken gegeben.
+
+In Bezug auf meine Arbeitsweise habe ich gelernt, wie wichtig es ist, strukturiert und zielorientiert zu arbeiten. Ich habe gemerkt, dass ich besser lerne, wenn ich praktische Projekte umsetze, statt nur theoretischen Stoff zu bearbeiten. Dies half mir, die Themen besser zu verstehen und anzuwenden.
+
+Nächstes Jahr möchte ich meine Zeit im LA noch effizienter nutzen, indem ich von Anfang an klarere Ziele setze und meine Projekte besser plane. Ich möchte auch mehr Zeit in die Optimierung und Verbesserung meiner bestehenden Projekte investieren.
+
+Am LA hat mir besonders gefallen, dass ich meine Lernperiode selbst gestalten konnte und keine Benotungen hatte. Das hat den Druck genommen und mir ermöglicht, in meinem eigenen Tempo zu lernen.
+
+Es wäre auch hilfreich, wenn wir mehr Feedback zu unseren Projekten bekommen könnten, um unsere Fähigkeiten weiter zu verbessern. (202 Wörter)
