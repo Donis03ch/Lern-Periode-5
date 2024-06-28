@@ -79,3 +79,13 @@ Heute habe ich mehr an dem LB gearbeitet, da ich noch 2 Wochen dafür Zeit habe.
 - [ ] Modul 293 an dem LB (Die Charakter Seite)
 
 Heute habe ich...
+
+## Reflexion 
+
+Während dieser Lernperiode habe ich viel über Webentwicklung gelernt. Am Anfang habe ich mit dem HTML und CSS meiner Movie-Website begonnen, ohne eine genaue Vorstellung davon, wie sie aussehen sollte. Ich suchte online nach Inspirationen und folgte einem Tutorial, um mein Projekt voranzubringen. Mein Ziel war es, dabei auch JavaScript zu lernen.
+
+Nach anfänglichen Schwierigkeiten mit der Navigation und dem Videoplayer konnte ich diese Probleme lösen und die Website fertigstellen. Besonders stolz bin ich auf die Animationen für Inhaltsübergänge und die strukturierte Filmkategorie- und Freundesliste. 
+
+Ich habe dabei festgestellt, dass ich besser lerne, wenn ich an praktischen Projekten arbeite, anstatt mich nur auf theoretische Module zu konzentrieren. So hatte ich kein Bedürfnis, an Modul 122 weiterzuarbeiten, sondern fokussierte mich lieber auf die Optimierung meines Videoplayers und die Erstellung der Startseite.
+
+Am Ende dieser Lernperiode habe ich entschieden, an eine Fan-Seite für das Spiel Solo Leveling Arise zu arbeiten für das LB_M293, inspiriert durch externe Quellen. Insgesamt bin ich zufrieden mit meinem Fortschritt und freue mich darauf, mein Wissen weiter auszubauen. (168 Wörter)
