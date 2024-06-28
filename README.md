@@ -78,7 +78,15 @@ Heute habe ich mehr an dem LB gearbeitet, da ich noch 2 Wochen dafür Zeit habe.
 - [ ] Modul 293 an dem LB (Die Tipps Seite)
 - [ ] Modul 293 an dem LB (Die Charakter Seite)
 
-Heute habe ich...
+Heute habe ich an der LB_M122 gearbeitet und wurde soweit fertig mit dem PowerShell-Skript. Ich muss die Dokumentation noch fertigstellen.
+
+## 28.6.2024
+
+- [ ] Qualitätseinstellung
+- [ ] Untertitel
+
+
+Heute habe ich nicht mehr viel an meinem Projekt schaffen können. Ich habe ein wenig mit dem Videoplayer rumgespielt. Ich habe die Zusammenfassungen für die LA und die Lernperiode geschrieben. Sonst habe ich am ende noch mein Github sauber geputzt.
 
 ## Reflexion 
 
