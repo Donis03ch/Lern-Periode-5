@@ -8,6 +8,19 @@ Lern-Periode 5
 2. Ich sollte mir rechtzeitig Hilfe suchen, entweder extern auf dem Internet oder wende mich an einer Lehrperson zu.
 3. Ich hätte die Idee von einem Dual-Plan. Erläutert: Ich arbeite, wenn ich druck im Modul 122 empfinde an diesen, bis ich soweit wieder aufgeholt habe. Als Projekt würde ich den Film-Streaming nehmen.
 
+# Fertiges Projekt
+
+
+Meine Movie-Website bietet ein ansprechendes, modernes Design mit einer fixierten Sidebar, die sich perfekt an mobile Geräte anpasst. Ich habe Animationen für Inhaltsübergänge integriert und eine strukturierte Filmkategorie- sowie Freundesliste erstellt. Außerdem gibt es interaktive Filmtrailer-Vorschauen und gespeicherte Filme. Die Seite ist vollständig responsiv, mit angepassten Layouts für verschiedene Bildschirmgrößen, was ein nahtloses Nutzererlebnis ermöglicht.
+
+Durch meine JavaScript-Features wird die mobile Navigation verbessert: Ein Klick auf die mobile Schaltfläche blendet die Sidebar und das Overlay ein oder aus. Mit den Menü-Icons kann ich verschiedene Inhaltsabschnitte aktivieren und ausgewählte Kategorien hervorheben.
+
+![image](https://github.com/Donis03ch/Lern-Periode-5/assets/111046453/8766b73d-eed7-420c-98d6-1ff6f74f7bc5)
+![image](https://github.com/Donis03ch/Lern-Periode-5/assets/111046453/fc0edb53-d5cd-42c4-a30f-5e972e8c5f43)
+![Präsentation1](https://github.com/Donis03ch/Lern-Periode-5/assets/111046453/b1bbcf74-56ba-41c4-b6da-3af17133c840)
+
+
+
 ## 03.5.2024
 
 Heute habe ich ein wenig mit HTML & CSS rumprobiert und habe mein Wissen erneut aufgefrischt. Ich habe mich entschieden eine Webseite zum streamen von Filmen zu schreiben. Ich finde dieses Projekt passt so, da ich gerne Filme schaue und mit dem Grundwissen, dass ich für HTML besitze, kann ich mich einem höheren Level widmen. (55 Wörter)
